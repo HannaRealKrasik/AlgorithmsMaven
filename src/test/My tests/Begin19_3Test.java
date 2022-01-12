@@ -1,8 +1,6 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-
-
 public class Begin19_3Test {
 
     @Test

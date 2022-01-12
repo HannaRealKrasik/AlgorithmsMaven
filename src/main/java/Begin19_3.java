@@ -4,12 +4,14 @@ public class Begin19_3 {
         String max = massive[0];
         String min = massive[0];
         int count = 0;
+
         for (int i = 0; i < massive.length; i++) {
             if (massive[i].length() < min.length())
                 min = massive[i];
             if (massive[i].length() > max.length())
                 max = massive[i];
         }
+
         StringBuilder ma = new StringBuilder();
         ma.append(max);
 
