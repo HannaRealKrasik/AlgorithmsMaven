@@ -1,6 +1,6 @@
 import org.junit.Test;
 
-public class TestFizzBuzzWoof {
+public class FizzBuzzWoofTest {
 
     @Test
     public void testFizzBuzzWoof(){

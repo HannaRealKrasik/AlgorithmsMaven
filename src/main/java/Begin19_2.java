@@ -1,4 +1,4 @@
-public class StrintSep2 {
+public class Begin19_2 {
     public static String separete(String s) {
         StringBuilder builder = new StringBuilder();
         if (s.length() > 5) {

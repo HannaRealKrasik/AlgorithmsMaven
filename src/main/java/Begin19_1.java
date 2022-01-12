@@ -1,4 +1,4 @@
-public class StringCount1 {
+public class Begin19_1 {
     public static int Count(String s, int count){
        StringBuilder builder = new StringBuilder();
         for (int i = 1; i <= count; i++){

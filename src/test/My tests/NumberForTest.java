@@ -2,7 +2,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
-public class TestNumberFor {
+public class NumberForTest {
     @Test
     public void numberForTest(){
         int n = 222;
