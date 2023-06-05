@@ -23,6 +23,7 @@ public class FizzBuzzWoof {
             list.add(builder.toString());
             builder.setLength(0);
         }
+
         return list;
     }
 }
